@@ -1,0 +1,3 @@
+i need to Create a function name “EDA” to obtain the summary statistics (Mean, Median and Mode) of each variable in the dataset of your choice, 
+by using of apply function
+the function should Print the results in the form of a table, where first row should contain the names of the variables and rows should contain, mean, median and mode respectively.
